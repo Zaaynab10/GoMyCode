@@ -109,23 +109,24 @@ color: rgb(204, 213, 214);
 
 
 footer{
-    background-color: rgb(132, 60, 4);
+    background-color: rgb(67, 3, 3);
     margin-bottom: 100px;
     
 }
 #Contact_Me{
     text-align: center;
     font-size: 40px;
-    background-color: rgb(63, 3, 3);
+    
+    background-color: rgb(181, 163, 26);
     margin-top: -350px;
     
 
 }
 #Contact{
     text-align: center;
-    background-color:rgb(210, 154, 0);
-    height: 500px;
-    width: 1510px;
+    border-radius:   500px/250px ;
+
+    background-color: rgb(90, 18, 9);
 }
 .Reseau{
     text-align: center;
